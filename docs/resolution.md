@@ -1,4 +1,6 @@
 ## Debt Resolution and Settlement Agreement (System Damage & Operational Recovery)
+https://www.foxrothschild.com/financial-services-litigation
+
 This Debt Resolution and Settlement Agreement (the "Agreement") is entered into as of [Date], by and between:
 Affected Party (Creditor): [Name of Hospital / Healthcare Network / Enterprise Provider], located at [Address] (hereinafter referred to as the "Creditor").
 Responsible Party (Debtor): [Name of Individual or Entity], located at [Address] (hereinafter referred to as the "Debtor").
